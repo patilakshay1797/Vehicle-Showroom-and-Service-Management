@@ -1,0 +1,14 @@
+body{
+    background-image: none;
+}
+
+.vehiclesServices{
+    height: 240px;
+    background-color: rgb(8, 7, 7);
+}
+
+.vehicleServiceSection1{
+    position: absolute;
+    top: 525px;
+}
+

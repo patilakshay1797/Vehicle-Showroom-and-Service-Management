@@ -1,0 +1,7 @@
+hr {
+    border: none;
+    height: 5px;
+    /* Set the hr color */
+    color: rgb(50, 53, 190); /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
